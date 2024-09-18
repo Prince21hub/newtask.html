@@ -1,0 +1,31 @@
+.mainDive{
+    display: flex;
+    width: 100%;
+}
+.one{
+    width: 50%;
+}
+.two{
+    /* display: flex; */
+    /* height: 500px; */
+    width: 50%;
+}
+.maindiv2{
+    display: flex;
+    font-size: 23px;
+}
+.headdiv{
+    display: flex;
+}
+ .sidediv{
+display: flex;
+ }
+.nine{
+    width: 40%;
+    text-align: justify;
+}
+.rotateText{
+    display: inline;
+    transform: rotate(90deg);
+    font-size: 68px;
+}

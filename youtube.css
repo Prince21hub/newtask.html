@@ -1,0 +1,75 @@
+.nav{
+    display: flex;
+}
+.div1{
+    width: 20%;
+}
+.div2{
+width: 60%;
+}
+.div3{
+    width: 20%;
+    border: 0px;
+}
+.signIn{
+    /* border: 2px solid black; */
+    margin-left: 10px;
+    border-radius: 6px;
+}
+.mainbody{
+  margin-top: 15px; 
+  display: flex;
+}
+.leftside{
+    width:75%;
+    text-align: center;
+   overflow: scroll;
+   height: 100vh;
+   overflow-x: hidden;
+}
+.rightside{
+width: 100%;
+}
+.videomain{
+    margin-top: 20px;
+    display: flex;
+    
+}
+.mainScroll{
+    height: 550px;
+     overflow: scroll;
+}
+.mainScroll::-webkit-scrollbar{
+    display: none;
+}
+.video1{
+   
+    width: 45%;
+}
+.video2{
+    
+    width: 39% ;
+}
+.video3{
+    width:47% ;
+}.videDes{
+    display: flex;
+}
+.vidImg{
+    width: 10%;
+}
+.vidDes{
+    width: 10;
+}
+a{
+    text-decoration: none;
+}
+button:hover{
+    background-color: gray;
+}
+.suggestion{
+    width: 1100px;
+    height: 45px;
+    overflow-y: hidden;
+}
+ 

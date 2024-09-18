@@ -1,0 +1,14 @@
+
+.row-main-div{
+   display: flex;
+}
+.imag-tag-main{
+   width: 100px;
+   border-radius: 50px;
+}
+.main-bar{
+   margin-left: 10px;
+}
+.side_bar{
+   margin-left: 10px;
+}

@@ -1,0 +1,18 @@
+.maindiv{
+    display: flex;
+    background-color: rgb(58, 49, 49);
+    color: azure;
+}
+.leftdiv{
+    height: 100%;
+    width: 50%;
+    margin-left: 100px;
+}
+.rightdiv{
+    height: 100%;
+    width: 50%;
+}
+.lastdiv{
+    height: 100%;
+    width: 50%;
+}

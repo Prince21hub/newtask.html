@@ -1,0 +1,21 @@
+.horizontal-text {
+    writing-mode: horizontal-tb; /* Sets horizontal text flow */
+    text-orientation: mixed; /* Ensures upright characters */
+    white-space: nowrap; /* Prevents text from wrapping */
+    font-size: 18px; /* Example font size */
+    font-family: Arial, sans-serif; /* Example font family */
+    width: 100%; /* Adjust width as needed */
+    height: 100vh; /* Adjust height as needed */
+    display: flex; /* Enables flexbox for centering */
+    justify-content: center; /* Centers text horizontally */
+    align-items: center; /* Centers text vertically */
+    background-color: #f0f0f0; /* Example background color */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .horizontal-text p {
+    margin: 0; /* Resets paragraph margin */
+    padding: 0; /* Resets paragraph padding */
+  }
+  
